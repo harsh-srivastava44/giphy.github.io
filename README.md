@@ -1,4 +1,4 @@
-# Giphygram
+# GiVeMeGiphy
 
 ---
 
